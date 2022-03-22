@@ -1,4 +1,4 @@
-# portfolio-rick
+# Portfolio
 Portfolio do videomaker e design gráfico Richard Rios
 
 https://richardrios.netlify.com
